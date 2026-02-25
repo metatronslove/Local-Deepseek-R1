@@ -169,3 +169,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 # This project serves as a starting point for either beginners or anyone who wants to participate in making this better
+
+## ☕ Destek Olun / Support
+
+Projemi beğendiyseniz, bana bir kahve ısmarlayarak destek olabilirsiniz!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/metatronslove)
+
+Teşekkürler! 🙏
